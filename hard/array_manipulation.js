@@ -1,5 +1,6 @@
 /*
 https://www.hackerrank.com/challenges/crush/problem
+For this, should learn difference array concept
 */
 function arrayManipulation(n, queries) {
     var max = 0, sum=0, result = new Array(n + 1).fill(0);
