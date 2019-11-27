@@ -1,5 +1,5 @@
 /*
-  https://www.hackerrank.com/challenges/sock-merchant/submissions/code/126468876
+  https://www.hackerrank.com/challenges/sock-merchant/problem
 */
 
 function sockMerchant(n, ar) {
