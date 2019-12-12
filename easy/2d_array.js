@@ -1,5 +1,7 @@
 /*
 https://www.hackerrank.com/challenges/2d-array/problem
+
+This problem is same as this -> https://github.com/mkesavan13/programming/blob/master/30_days_of_programming/2d_arrays.js
 */
 function hourglassSum(arr,start_row = 0,start_col = 0,high_total) {
     if(typeof arr[start_row+2] == "undefined"){
